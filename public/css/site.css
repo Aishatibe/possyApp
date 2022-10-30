@@ -1,0 +1,42 @@
+body {
+    font-family: 'Nunito', sans-serif;
+}
+
+.p-4 {
+    padding: 1rem
+}
+
+.bg {
+    background-color: #f54e78;
+}
+
+nav a {
+    padding: .5rem;
+    color: #fff
+}
+
+a {
+    color: #f54e78;
+}
+
+.border-1 {
+    border-width: .07rem;
+}
+
+.form div {
+    margin-bottom: 15px;
+}
+
+.form div>input {
+    display: block;
+}
+
+.form div>button {
+    padding: 5px;
+}
+
+.form .form-error {
+    font-size: .65rem;
+    color: red;
+    font-weight: 600;
+}
